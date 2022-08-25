@@ -1,0 +1,20 @@
+
+emailid :- bhagyeshwar.j@eabyas.com
+passsword :- Bhagya@123
+phpmyadmin password :- leooffice
+systempassword :- leooffice
+
+
+
+echo "# employee" >> README.md
+git init
+
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/bhagyeshwar1/employee.git
+git push -u origin main
+git status
+
+
+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
